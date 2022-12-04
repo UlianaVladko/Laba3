@@ -1,0 +1,6 @@
+﻿  FunctionPointer.cpp
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба3\FunctionPointer\FunctionPointer\FunctionPointer.cpp(43,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба3\FunctionPointer\FunctionPointer\FunctionPointer.cpp(63,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба3\FunctionPointer\FunctionPointer\FunctionPointer.cpp(64,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба3\FunctionPointer\FunctionPointer\FunctionPointer.cpp(34): warning C4715: function2: значение возвращается не при всех путях выполнения
+  FunctionPointer.vcxproj -> C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба3\FunctionPointer\x64\Debug\FunctionPointer.exe
